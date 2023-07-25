@@ -1,0 +1,3 @@
+/Users/jamesslater/CLionProjects/pomodor-timer/cmake-build-debug/CMakeFiles/pomodor_timer.dir
+/Users/jamesslater/CLionProjects/pomodor-timer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jamesslater/CLionProjects/pomodor-timer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
